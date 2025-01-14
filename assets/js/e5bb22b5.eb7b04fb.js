@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojekt_dokumentacja=self.webpackChunkprojekt_dokumentacja||[]).push([[7298],{4785:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/projekt-dokumentacja/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
